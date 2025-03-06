@@ -247,3 +247,4 @@ fabric.properties
 
 # PyPI configuration file
 .pypirc
+/.idea/
